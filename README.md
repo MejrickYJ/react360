@@ -1,5 +1,5 @@
 # React360 - tutoriálek
-Potřeba pracovat v Node verzi 16.19.1
+Potřeba pracovat v Node verzi 16.19.1 (nodejs-portable)
 
 1. npm install –g react-360-cli
 2. react-360 init „nazevProjektu“
